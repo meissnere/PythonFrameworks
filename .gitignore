@@ -1,0 +1,2 @@
+# ignoring everything underneath the virtual environment
+venv/
